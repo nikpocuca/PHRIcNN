@@ -50,11 +50,11 @@ up to a square based on largest dimension.
 
 * new images were only added to the training directory not test.
 
-June 16th 
+## June 16th 
 
 All images less than 200x200 have been removed, keep this in mind for future. 
 
-June 24th
+## June 24th
 
 The script datasetup takes two parameters now.
 
