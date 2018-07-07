@@ -1,4 +1,4 @@
-#PHRI Convolutional Neural Network
+# PHRI Convolutional Neural Network
 
 
 ## Setting up python
